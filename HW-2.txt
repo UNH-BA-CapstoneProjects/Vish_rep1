@@ -1,0 +1,3 @@
+Question:-  find the best suitable car as per the customer preference.
+
+Description :- It is an car data and I found it on Kaggle, where there are around 250 different models of car and its with some specified information, soo I will be designing an app where one can find what car is best suitable for him or her as per their preferences as per my data.
